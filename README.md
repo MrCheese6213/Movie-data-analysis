@@ -10,7 +10,9 @@ This project analyzes the relationship between movie budget, popularity, and IMD
 from TMDB and IMDb (sourced from Kaggle).
 
 ## Tools Used
-- Python (Pandas, Matplotlib)
+- Python
+- Pandas
+- Matplotlib
 - Google Colab
   
 ## Skills Demonstrated
@@ -37,12 +39,6 @@ from TMDB and IMDb (sourced from Kaggle).
   - Scatter plots (Budget vs IMDb rating)
   - Bar charts (Popularity by budget group)
   - Line graphs (Ratings over decades)
-
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
 
 ## Data Sources (All Downloaded from Kaggle)
 - TMDB Movies Dataset (2024)
